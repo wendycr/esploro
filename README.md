@@ -1,2 +1,4 @@
 # esploro
-code rleated to Esploro
+code related to Esploro
+
+Includea xsl to convert Esploro OAI to MARC XML
